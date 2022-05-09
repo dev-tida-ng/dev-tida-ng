@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dev-tida-ng
-- 👀 I’m interested in JAVA, GOLANG website, blockchain, aws
-- 🌱 I’m currently learning GOLANG
+- 👀 I’m interested in JAVA, devOps
 - 💞️  // I’m looking to collaborate on ..., 
 - 📫 Reach me via email dev.tida.ng@gmail.com or fb http://fb.com/toilatida
 
